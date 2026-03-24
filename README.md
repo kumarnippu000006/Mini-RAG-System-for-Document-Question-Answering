@@ -51,7 +51,7 @@ Open your browser at **http://localhost:5000**
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌──────────────┐     ┌───────────────┐     ┌──────────────┐
@@ -113,7 +113,7 @@ Open your browser at **http://localhost:5000**
 
 ---
 
-## 🔒 Grounding & Hallucination Prevention
+##  Grounding & Hallucination Prevention
 
 The system enforces grounding through multiple mechanisms:
 
@@ -124,7 +124,7 @@ The system enforces grounding through multiple mechanisms:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── app.py                   # Flask web server
