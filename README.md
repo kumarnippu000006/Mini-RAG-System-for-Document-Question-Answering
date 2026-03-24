@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers customer questions a
 
 ```bash
 git clone <repo-url>
-cd assignment2
+cd Mini-RAG-System-for-Document-Question-Answering
 
 # Create virtual environment (recommended)
 python -m venv venv
